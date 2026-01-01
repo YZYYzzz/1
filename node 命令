@@ -1,0 +1,14 @@
+# 1. 进入项目目录
+cd "C:\Users\XOS\Desktop\LD (1)"
+
+# 2. 安装依赖
+npm install
+
+# 3. 启动服务器
+npm start
+
+WebSocket服务器启动 (X个工作线程):
+主用户服务器监听端口: 7007
+客户端服务器监听端口: 9191
+主用户WebSocket服务器已启动，监听端口 7007
+客户端WebSocket服务器已启动，监听端口 9191

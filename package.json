@@ -1,0 +1,13 @@
+{
+  "name": "radar-server",
+  "version": "1.0.0",
+  "description": "雷达图WebSocket服务器",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "pako": "^2.1.0",
+    "ws": "^8.18.3"
+  }
+}
